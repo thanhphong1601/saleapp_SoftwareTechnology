@@ -1,0 +1,71 @@
+[{
+  "id": 1,
+  "name": "iPhone XSMas",
+  "price": 100000,
+  "image": "https://bizweb.dktcdn.net/thumb/1024x1024/100/342/250/products/xs-vang-bb1d0d28-fc0e-47d8-9acc-c14923ee4c36.png?v=1589032810487",
+  "category": 1
+},
+{
+  "id": 2,
+  "name": "iPhone 15",
+  "price": 100000,
+  "image": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/Products/Images/42/299033/s16/iphone-15-pro-blue-0-650x650.jpg",
+  "category": 1
+},
+{
+  "id": 3,
+  "name": "Apiel Watck",
+  "price": 100000,
+  "image": "https://product.hstatic.net/1000259254/product/apple_watch_series_6_gps-3_f473dbbd7a8a4eebb713eb4737a4bb3c_master.jpg",
+  "category": 4
+},
+{
+  "id": 4,
+  "name": "Vergil",
+  "price": 100000,
+  "image": "https://res.cloudinary.com/dstjar2iy/image/upload/v1709027106/mlgrkuko2mjuhoy7qhzt.gif",
+  "category": 3
+},
+{
+  "id": 5,
+  "name": "Nigamelon",
+  "price": 100000,
+  "image": "https://i.redd.it/kz29pseqp7d41.jpg",
+  "category": 4
+},
+{
+  "id": 6,
+  "name": "Gigachad",
+  "price": 100000,
+  "image": "https://bizweb.dktcdn.net/100/438/408/files/gigachad-meme-yodyvn2.jpg?v=1696388268098",
+  "category": 4
+},
+{
+  "id": 7,
+  "name": "Asus Laptop",
+  "price": 100000,
+  "image": "https://dlcdnwebimgs.asus.com/gain/4cc342ab-c4fa-42a9-8619-a340f6119bec/",
+  "category": 2
+},
+  {
+  "id": 8,
+  "name": "Gigachad",
+  "price": 100000,
+  "image": "https://bizweb.dktcdn.net/100/438/408/files/gigachad-meme-yodyvn2.jpg?v=1696388268098",
+  "category": 4
+},
+  {
+  "id": 9,
+  "name": "Gigachad",
+  "price": 100000,
+  "image": "https://bizweb.dktcdn.net/100/438/408/files/gigachad-meme-yodyvn2.jpg?v=1696388268098",
+  "category": 4
+},
+  {
+  "id": 10,
+  "name": "Gigachad",
+  "price": 100000,
+  "image": "https://bizweb.dktcdn.net/100/438/408/files/gigachad-meme-yodyvn2.jpg?v=1696388268098",
+  "category": 4
+}
+]
